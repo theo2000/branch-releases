@@ -10,8 +10,8 @@ Download the newest version from **[Releases](../../releases/latest)**. It runs 
 4. Open **System Settings**, then **Privacy and Security**, scroll down, and click **Open Anyway** next to Branch. Confirm with your password.
 5. When Branch asks for access to Documents, click **Allow**. It stores your maps there.
 
-Steps 3 and 4 happen once per new version.
+Steps 3 and 4 are needed for a version downloaded in the browser.
 
 ## Updates
 
-When a new version is out, Branch says so when it opens and offers to open this page. Install it the same way, dragging it over the old one.
+When a new version is out, Branch says so when it opens and offers to download it. It checks the download, then quits and opens it: drag Branch onto Applications, choose Replace, and open it again. Your maps are kept.
